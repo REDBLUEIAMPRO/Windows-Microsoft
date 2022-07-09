@@ -1,0 +1,30 @@
+<!DOCTYPE html 
+html lang="es"
+<font Face="arial">
+
+<title>Windows</title>
+
+<center>
+<h1
+style="color:rgb(0, 0, 0); font-family: arial;
+font-size: 90px;"
+>                           Windows Microsoft</h1>
+</center>
+
+
+<p
+style="color:black; font-family: arial;
+font-size: 25px;"
+>Windows microsoft es un softwere creado por 
+bill gated el cuatro de abril de 1975.Un softwere es un conjunto de programas y rutinas las 
+cuales le permiten a la computadora haser determinadas tareas.</p>
+
+
+<center>
+<img src="compu.jpg" alt="Foto de computadora lenovo que tiene windows"
+</center>
+
+<center>
+><img src="descarga.png" alt="Este es el logo de windows">
+</center>
+<Body background="hola.jpg"></Body>
